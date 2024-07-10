@@ -13,7 +13,7 @@
 
 <br />
 
-
+## 🌐Socials
 📫 How to reach me:
 <p align="center">
   <a href="https://www.linkedin.com/in/nguyen-thi-hong-tuyet-106058318/" target="_blank">
@@ -72,6 +72,13 @@
   </tr>
 </table>
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=NGUYENTHIHONGTUYET09&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NGUYENTHIHONGTUYET09&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NGUYENTHIHONGTUYET09&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # Certificates:
 
