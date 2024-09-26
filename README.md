@@ -39,7 +39,7 @@
   </a>
 </p>
 
-##Skills:
+✅✅✅✅✅
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="48" height="48"/> 
